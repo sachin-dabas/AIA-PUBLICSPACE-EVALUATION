@@ -3,7 +3,6 @@ The following repository is the collection of all the data used for evualuation 
 Our Project deals with the focus on evaluation of the User Perception using ML to understand the notion of a Good Public Space. The questions that we are trying to resolve include What features of a existing Public Space are Users most excited about? To what are the aspects do Users want these features? And overall, how can we integrate the Users feedback into the design process?
 
 
-
 The Methodology:
 01// NLP: The process of Natural Language Processing involves understanding the underlying information in texts. The NLP method that we used included 2 main analysis ; sentiment and topic modeling. The process of NLP includes following;
 
