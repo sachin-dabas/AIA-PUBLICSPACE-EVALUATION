@@ -25,3 +25,11 @@ Public spaces are different. Some are open and quiet while others are busy and c
 
 03// SPACE SYNTAX:
 Space Syntax has been explored to add a layer of  contextual urban information to better understand the nature of urban squares. Values of urban squares  are generated for three space syntax analysis criteria using the plugin DecCodingSpaces Toolbox.  Space Syntax values provide information about eye level visibility graph derived from the public square spatial layout in three aspects. The average visibility area of a public square, the compactness which defines the ratio of the square of the perimeter to the area, and finally the average value of circularity in a public square. As a result, these space syntax values were then compiled with both sentiment analysis as well as image segmentation analysis for all the public squares to better understand the correlation between these different analyses and draw through graphs conclusions and understanding for what characterizes a good square from a less preferable one.
+
+04// TOOL:
+A: Select the site imagery of the public square to analyze. 
+B: Run the semantic segmentation on it to identify the urban features.
+C: Get the scores for the segmentation.
+D: Run space syntax analysis for the square from the .gh file
+E: Get the google reviews from the google maps (OPTIONAL)
+F: Plot the results for comparision
