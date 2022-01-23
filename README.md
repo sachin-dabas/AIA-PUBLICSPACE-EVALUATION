@@ -1,4 +1,4 @@
-# AIA-PublicSpace, IAAC,2021
+# AIA-PublicSpace,IAAC,2021
 The following repository is the collection of all the data used for evualuation of a Good Public Space. We used NLP, Image segmentation and space syntax analysis.
 Our Project deals with the focus on evaluation of the User Perception using ML to understand the notion of a Good Public Space. The questions that we are trying to
 resolve include What features of a existing Public Space are Users most excited about? To what are the aspects do Users want these features? And overall, how can we
